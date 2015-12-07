@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Discriptions:
 # The value of the cards in Blackjack:
 # 1.number card has value equals to the number
@@ -209,3 +210,6 @@ frame.start()
 
 
 # remember to review the gradic rubric
+=======
+http://www.codeskulptor.org/#user40_98hb07sCuQ_0.py
+>>>>>>> origin/master
